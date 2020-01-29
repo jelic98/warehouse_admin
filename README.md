@@ -1,3 +1,3 @@
-# Racunari
+# Warehouse Administration
 
-Basic database fetching and updating software
+Implementation of basic database CRUD operations that fulfills warehouse administration requirements.
